@@ -18,14 +18,14 @@ https://drive.google.com/drive/folders/1dyHN6zqr9SD3joWnx1hfTK4rzZS59h-L?usp=sha
 
 ----------ML Lib:-----------
 
-Keras
-Matplot 
-Sklearn
-Pandas
-Numpy
-Face_Recognition
-SciPi
-Cv2
+~Keras
+~Matplot 
+~Sklearn
+~Pandas
+~Numpy
+~Face_Recognition
+~SciPi
+~Cv2
 
 
 ----------Platform:-----------
