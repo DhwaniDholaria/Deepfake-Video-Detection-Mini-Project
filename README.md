@@ -5,7 +5,7 @@
 
 
 
-----------Dataset Used-----:
+------Dataset Used-----
 
 1) Celeb Df
 2) DFDC
@@ -16,8 +16,7 @@ Link:-
 https://drive.google.com/drive/folders/1dyHN6zqr9SD3joWnx1hfTK4rzZS59h-L?usp=sharing
 
 
-----------ML Lib:-----------
-
+----------ML Libs:-----------
 ~Keras
 ~Matplot 
 ~Sklearn
